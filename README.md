@@ -2,6 +2,8 @@
 
 This repository contains a basic chess bot that utilizes the Minimax strategy with Alpha-Beta Pruning to make optimal moves in a game of chess. It is designed to demonstrate how game-playing agents can be created using classic adversarial search algorithms.
 
+**Note:** As the bot relies solely on adversarial search and does not incorporate advanced chess heuristics or learning, its playing strength is limited and it may not perform well against skilled players or advanced engines.
+
 ## Files in the Repository
 
 ### 1. `simulation.py`
